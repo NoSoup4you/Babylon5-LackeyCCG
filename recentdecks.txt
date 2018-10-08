@@ -1,0 +1,4 @@
+RECENTDECK0:Diplomacy_Cannon.dek
+RECENTDECK1:Fight_Milk.dek
+RECENTDECK2:unnamed.dek
+RECENTDECK3:First_Attempt.dek

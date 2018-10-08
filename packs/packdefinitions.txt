@@ -1,0 +1,142 @@
+PACKNAME: "Boosterpack - Premier"
+IMAGENAME: "01-Pr"
+5
+5	IGNOREDOUBLES	3	Set IS "Premier"	Rarity CONTAINS "Common"	Rarity DOESNTCONTAIN  "Uncommon"
+2	IGNOREDOUBLES	2	Set IS "Premier"	Rarity CONTAINS "Uncommon"
+1	IGNOREDOUBLES	2	Set IS "Premier"	Rarity CONTAINS "Rare"
+0	IGNOREDOUBLES	2	Set IS "Premier"	Rarity CONTAINS "Fixed"
+0	IGNOREDOUBLES	2	Set IS "Premier"	Rarity CONTAINS "Promo"
+
+PACKNAME: "Boosterpack - Shadows"
+IMAGENAME: "02-Sh"
+5
+7	IGNOREDOUBLES	3	Set IS "Shadows"	Rarity CONTAINS "Common"	Rarity DOESNTCONTAIN  "Uncommon"
+3	IGNOREDOUBLES	2	Set IS "Shadows"	Rarity CONTAINS "Uncommon"
+2	IGNOREDOUBLES	2	Set IS "Shadows"	Rarity CONTAINS "Rare"
+0	IGNOREDOUBLES	2	Set IS "Shadows"	Rarity CONTAINS "Fixed"
+0	IGNOREDOUBLES	2	Set IS "Shadows"	Rarity CONTAINS "Promo"
+
+PACKNAME: "Boosterpack - Deluxe"
+IMAGENAME: "03-Dl"
+5
+4	IGNOREDOUBLES	3	Set IS "Deluxe"	Rarity CONTAINS "Common"	Rarity DOESNTCONTAIN  "Uncommon"
+2	IGNOREDOUBLES	2	Set IS "Deluxe"	Rarity CONTAINS "Uncommon"
+1	IGNOREDOUBLES	2	Set IS "Deluxe"	Rarity CONTAINS "Rare"
+1	IGNOREDOUBLES	2	Set IS "Deluxe"	Rarity CONTAINS "Fixed"
+0	IGNOREDOUBLES	2	Set IS "Deluxe"	Rarity CONTAINS "Promo"
+
+PACKNAME: "Boosterpack - Great War"
+IMAGENAME: "04-GW"
+5
+5	IGNOREDOUBLES	3	Set IS "Great_War"	Rarity CONTAINS "Common"	Rarity DOESNTCONTAIN  "Uncommon"
+3	IGNOREDOUBLES	2	Set IS "Great_War"	Rarity CONTAINS "Uncommon"
+2	IGNOREDOUBLES	2	Set IS "Great_War"	Rarity CONTAINS "Rare"
+0	IGNOREDOUBLES	2	Set IS "Great_War"	Rarity CONTAINS "Fixed"
+0	IGNOREDOUBLES	2	Set IS "Great_War"	Rarity CONTAINS "Promo"
+
+PACKNAME: "Boosterpack - Psi Corps"
+IMAGENAME: "05-Ps"
+5
+5	IGNOREDOUBLES	3	Set IS "Psi_Corps"	Rarity CONTAINS "Common"	Rarity DOESNTCONTAIN  "Uncommon"
+2	IGNOREDOUBLES	2	Set IS "Psi_Corps"	Rarity CONTAINS "Uncommon"
+1	IGNOREDOUBLES	2	Set IS "Psi_Corps"	Rarity CONTAINS "Rare"
+0	IGNOREDOUBLES	2	Set IS "Psi_Corps"	Rarity CONTAINS "Fixed"
+0	IGNOREDOUBLES	2	Set IS "Psi_Corps"	Rarity CONTAINS "Promo"
+
+PACKNAME: "Boosterpack - Severed Dreams"
+IMAGENAME: "06-SD"
+5
+5	IGNOREDOUBLES	3	Set IS "Severed_Dreams"	Rarity CONTAINS "Common"	Rarity DOESNTCONTAIN  "Uncommon"
+2	IGNOREDOUBLES	2	Set IS "Severed_Dreams"	Rarity CONTAINS "Uncommon"
+1	IGNOREDOUBLES	2	Set IS "Severed_Dreams"	Rarity CONTAINS "Rare"
+0	IGNOREDOUBLES	2	Set IS "Severed_Dreams"	Rarity CONTAINS "Fixed"
+0	IGNOREDOUBLES	2	Set IS "Severed_Dreams"	Rarity CONTAINS "Promo"
+
+PACKNAME: "Boosterpack - Wheel of Fire"
+IMAGENAME: "07-WF"
+5
+5	IGNOREDOUBLES	3	Set IS "Wheel_of_Fire"	Rarity CONTAINS "Common"	Rarity DOESNTCONTAIN  "Uncommon"
+3	IGNOREDOUBLES	2	Set IS "Wheel_of_Fire"	Rarity CONTAINS "Uncommon"
+1	IGNOREDOUBLES	2	Set IS "Wheel_of_Fire"	Rarity CONTAINS "Rare"
+0	IGNOREDOUBLES	2	Set IS "Wheel_of_Fire"	Rarity CONTAINS "Fixed"
+0	IGNOREDOUBLES	2	Set IS "Premier"	Rarity CONTAINS "Promo"
+
+PACKNAME: "Boosterpack - Crusade"
+IMAGENAME: "08-Cr"
+5
+5	IGNOREDOUBLES	3	Set IS "Crusade"	Rarity CONTAINS "Common"	Rarity DOESNTCONTAIN  "Uncommon"
+3	IGNOREDOUBLES	2	Set IS "Crusade"	Rarity CONTAINS "Uncommon"
+1	IGNOREDOUBLES	2	Set IS "Crusade"	Rarity CONTAINS "Rare"
+0	IGNOREDOUBLES	2	Set IS "Crusade"	Rarity CONTAINS "Fixed"
+0	IGNOREDOUBLES	2	Set IS "Crusade"	Rarity CONTAINS "Promo"
+
+PACKNAME: "Starterdeck - Premier - Earth Alliance"
+IMAGENAME: "01-Pr_sd-Hm"
+6
+0	IGNOREDOUBLES	4	Set IS "Premier"	Rarity CONTAINS "Common"	Fixeds IS ""	Rarity DOESNTCONTAIN  "Uncommon"
+8	IGNOREDOUBLES	3	Set IS "Premier"	Rarity CONTAINS "Uncommon"	Fixeds IS ""
+2	IGNOREDOUBLES	3	Set IS "Premier"	Rarity CONTAINS "Rare"	Fixeds IS ""
+48	IGNOREDOUBLES	3	Set IS "Premier"	Rarity CONTAINS "Fixed"	Fixeds CONTAINS "Human"
+2	ALLOWDOUBLES	4	Set IS "Premier"	Rarity CONTAINS "Fixed"	Fixeds CONTAINS "Human"	Name ISNOT "Jeffrey Sinclair"
+0	IGNOREDOUBLES	3	Set IS "Premier"	Rarity CONTAINS "Promo"	Fixeds IS ""
+
+PACKNAME: "Starterdeck - Premier - Minbari Federation"
+IMAGENAME: "01-Pr_sd-Mn"
+6
+0	IGNOREDOUBLES	4	Set IS "Premier"	Rarity CONTAINS "Common"	Fixeds IS ""	Rarity DOESNTCONTAIN  "Uncommon"
+8	IGNOREDOUBLES	3	Set IS "Premier"	Rarity CONTAINS "Uncommon"	Fixeds IS ""
+2	IGNOREDOUBLES	3	Set IS "Premier"	Rarity CONTAINS "Rare"	Fixeds IS ""
+37	IGNOREDOUBLES	3	Set IS "Premier"	Rarity CONTAINS "Fixed"	Fixeds CONTAINS "Minbari"
+13	ALLOWDOUBLES	4	Set IS "Premier"	Rarity CONTAINS "Fixed"	Fixeds CONTAINS "Minbari"	Name ISNOT "Delenn"
+0	IGNOREDOUBLES	3	Set IS "Premier"	Rarity CONTAINS "Promo"	Fixeds IS ""
+
+PACKNAME: "Starterdeck - Premier - Narn Regime"
+IMAGENAME: "01-Pr_sd-Nr"
+6
+0	IGNOREDOUBLES	4	Set IS "Premier"	Rarity CONTAINS "Common"	Fixeds IS ""	Rarity DOESNTCONTAIN  "Uncommon"
+8	IGNOREDOUBLES	3	Set IS "Premier"	Rarity CONTAINS "Uncommon"	Fixeds IS ""
+2	IGNOREDOUBLES	3	Set IS "Premier"	Rarity CONTAINS "Rare"	Fixeds IS ""
+45	IGNOREDOUBLES	3	Set IS "Premier"	Rarity CONTAINS "Fixed"	Fixeds CONTAINS "Narn"
+5	ALLOWDOUBLES	4	Set IS "Premier"	Rarity CONTAINS "Fixed"	Fixeds CONTAINS "Narn"	Name ISNOT "G'Kar"
+0	IGNOREDOUBLES	3	Set IS "Premier"	Rarity CONTAINS "Promo"	Fixeds IS ""
+
+PACKNAME: "Starterdeck - Premier - Centauri Republic"
+IMAGENAME: "01-Pr_sd-Cn"
+6
+0	IGNOREDOUBLES	4	Set IS "Premier"	Rarity CONTAINS "Common"	Fixeds IS ""	Rarity DOESNTCONTAIN  "Uncommon"
+8	IGNOREDOUBLES	3	Set IS "Premier"	Rarity CONTAINS "Uncommon"	Fixeds IS ""
+2	IGNOREDOUBLES	3	Set IS "Premier"	Rarity CONTAINS "Rare"	Fixeds IS ""
+47	IGNOREDOUBLES	3	Set IS "Premier"	Rarity CONTAINS "Fixed"	Fixeds CONTAINS "Centauri"
+3	ALLOWDOUBLES	4	Set IS "Premier"	Rarity CONTAINS "Fixed"	Fixeds CONTAINS "Centauri"	Name ISNOT "Londo Mollari [Pr]"
+0	IGNOREDOUBLES	3	Set IS "Premier"	Rarity CONTAINS "Promo"	Fixeds IS ""
+
+PACKNAME: "Starterdeck - Great War - League of Non-Aligned Worlds"
+IMAGENAME: "04-GW_sd-NA"
+6
+0	IGNOREDOUBLES	4	Set IS "Great_War"	Rarity CONTAINS "Common"	Fixeds IS ""	Rarity DOESNTCONTAIN  "Uncommon"
+8	IGNOREDOUBLES	3	Set IS "Great_War"	Rarity CONTAINS "Uncommon"	Fixeds IS ""
+2	IGNOREDOUBLES	3	Set IS "Great_War"	Rarity CONTAINS "Rare"	Fixeds IS ""
+47	IGNOREDOUBLES	3	Set IS "Great_War"	Rarity CONTAINS "Fixed"	Fixeds CONTAINS "Non-Aligned"
+3	ALLOWDOUBLES	3	Set IS "Great_War"	Rarity CONTAINS "Fixed"	Fixeds CONTAINS "Non-Aligned"
+0	IGNOREDOUBLES	3	Set IS "Great_War"	Rarity CONTAINS "Promo"	Fixeds IS ""
+
+PACKNAME: "Starterdeck - Great War - Home Factions"
+IMAGENAME: "04-GW_sd-HF"
+6
+0	IGNOREDOUBLES	4	Set IS "Great_War"	Rarity CONTAINS "Common"	Fixeds IS ""	Rarity DOESNTCONTAIN  "Uncommon"
+8	IGNOREDOUBLES	3	Set IS "Great_War"	Rarity CONTAINS "Uncommon"	Fixeds IS ""
+2	IGNOREDOUBLES	3	Set IS "Great_War"	Rarity CONTAINS "Rare"	Fixeds IS ""
+50	IGNOREDOUBLES	3	Set IS "Great_War"	Rarity CONTAINS "Fixed"	Fixeds CONTAINS "HomeFactions"
+0	ALLOWDOUBLES	3	Set IS "Great_War"	Rarity CONTAINS "Fixed"	Fixeds CONTAINS "HomeFactions"
+0	IGNOREDOUBLES	3	Set IS "Great_War"	Rarity CONTAINS "Promo"	Fixeds IS ""
+
+PACKNAME: "Starterdeck - Psi Corps - Psi Corps"
+IMAGENAME: "05-Ps_sd-Ps"
+6
+0	IGNOREDOUBLES	4	Set IS "Psi_Corps"	Rarity CONTAINS "Common"	Fixeds IS ""	Rarity DOESNTCONTAIN  "Uncommon"
+8	IGNOREDOUBLES	3	Set IS "Psi_Corps"	Rarity CONTAINS "Uncommon"	Fixeds IS ""
+2	IGNOREDOUBLES	3	Set IS "Psi_Corps"	Rarity CONTAINS "Rare"	Fixeds IS ""
+33	IGNOREDOUBLES	3	Set IS "Psi_Corps"	Rarity CONTAINS "Fixed"	Fixeds CONTAINS "PsiCorps"
+17	ALLOWDOUBLES	4	Set IS "Psi_Corps"	Rarity CONTAINS "Fixed"	Fixeds CONTAINS "PsiCorps"	Name ISNOT "Bester [Ps]"
+0	IGNOREDOUBLES	3	Set IS "Psi_Corps"	Rarity CONTAINS "Promo"	Fixeds IS ""
+

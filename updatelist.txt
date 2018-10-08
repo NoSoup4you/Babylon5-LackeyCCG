@@ -1,0 +1,26 @@
+b5	10-08-18
+plugins/b5/plugininfo.txt	http://www.werepenguin.com/B5/lackey/plugininfo.txt	160553
+plugins/b5/setlist.txt	http://www.werepenguin.com/B5/lackey/setlist.txt	55445
+plugins/b5/packs/packdefinitions.txt	http://www.werepenguin.com/B5/lackey/packs/packdefinitions.txt	548172
+plugins/b5/bot.jpg	http://babylon5ccg.bravehost.com/download/b5/plugin/bot.jpg	-919
+plugins/b5/sets/setimages/general/spawned.jpg	http://www.werepenguin.com/B5/lackey/high/spawned.jpg	-69041
+plugins/b5/sets/setimages/general/cardback.jpg	http://www.werepenguin.com/B5/lackey/high/cardback.jpg	-41401
+plugins/b5/sets/setimages/general/tension_tracker.jpg	http://www.werepenguin.com/B5/lackey/high/tension_tracker.jpg	-44474
+plugins/b5/packs/01-Pr.jpg	http://www.werepenguin.com/B5/lackey/packs/01-Pr.jpg	-58893
+plugins/b5/packs/02-Sh.jpg	http://www.werepenguin.com/B5/lackey/packs/02-Sh.jpg	-37017
+plugins/b5/packs/03-Dl.jpg	http://www.werepenguin.com/B5/lackey/packs/03-Dl.jpg	-5055
+plugins/b5/packs/04-GW.jpg	http://www.werepenguin.com/B5/lackey/packs/04-GW.jpg	-23805
+plugins/b5/packs/05-Ps.jpg	http://www.werepenguin.com/B5/lackey/packs/05-Ps.jpg	-5785
+plugins/b5/packs/06-SD.jpg	http://www.werepenguin.com/B5/lackey/packs/06-SD.jpg	-38659
+plugins/b5/packs/07-WF.jpg	http://www.werepenguin.com/B5/lackey/packs/07-WF.jpg	-15548
+plugins/b5/packs/08-Cr.jpg	http://www.werepenguin.com/B5/lackey/packs/08-Cr.jpg	-16036
+plugins/b5/packs/01-Pr_sd-Hm.jpg	http://www.werepenguin.com/B5/lackey/packs/01-Pr_sd-Hm.jpg	-48181
+plugins/b5/packs/01-Pr_sd-Mn.jpg	http://www.werepenguin.com/B5/lackey/packs/01-Pr_sd-Mn.jpg	-48181
+plugins/b5/packs/01-Pr_sd-Nr.jpg	http://www.werepenguin.com/B5/lackey/packs/01-Pr_sd-Nr.jpg	-48181
+plugins/b5/packs/01-Pr_sd-Cn.jpg	http://www.werepenguin.com/B5/lackey/packs/01-Pr_sd-Cn.jpg	-48181
+plugins/b5/packs/04-GW_sd-NA.jpg	http://www.werepenguin.com/B5/lackey/packs/04-GW_sd-NA.jpg	-23805
+plugins/b5/packs/04-GW_sd-HF.jpg	http://www.werepenguin.com/B5/lackey/packs/04-GW_sd-HF.jpg	-23805
+plugins/b5/packs/05-Ps_sd-Ps.jpg	http://www.werepenguin.com/B5/lackey/packs/05-Ps_sd-Ps.jpg	-5785
+plugins/b5/sets/All_Sets.txt	http://www.werepenguin.com/B5/lackey/All_Sets.txt	61982728
+CardGeneralURLs:
+http://www.werepenguin.com/B5/lackey/high/

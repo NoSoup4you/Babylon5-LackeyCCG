@@ -1,0 +1,313 @@
+<plugin>
+
+	<globalstat>
+		<label>BABYLON 5 INFLUENCE</label>
+		<initialvalue>4</initialvalue>
+	</globalstat>
+	
+	<globalstat>
+		<label>SHADOW INFLUENCE</label>
+		<initialvalue>4</initialvalue>
+	</globalstat>
+	
+	<globalstat>
+		<label>VORLON INFLUENCE</label>
+		<initialvalue>4</initialvalue>
+	</globalstat>
+	
+	<playerstat>
+		<label>Influence</label>
+		<initialvalue>4</initialvalue>
+	</playerstat>
+	
+	<playerstat>
+		<label>Bonus Inf</label>
+		<initialvalue>0</initialvalue>
+	</playerstat>
+	
+	<playerstat>
+		<label>Used Inf</label>
+		<initialvalue>0</initialvalue>
+	</playerstat>
+
+	<playerstat>
+		<label>Bonus Power</label>
+		<initialvalue>0</initialvalue>
+	</playerstat>
+	
+	<playerstat>
+		<label>Unrest</label>
+		<initialvalue>1</initialvalue>
+	</playerstat>
+	
+	
+	
+	<phase><label>READY</label></phase>
+	<phase><label>CONFLICT</label></phase>
+	<phase><label>ACTION</label></phase>
+	<phase><label>AFTERMATH</label></phase>
+	<phase><label>DRAW</label></phase>
+
+	
+	
+	<gamezone>
+		<label>Hand</label>
+		<visibletoowner>YES</visibletoowner>
+		<visibletoothers>NO</visibletoothers>
+	</gamezone>
+	
+	<gamezone>
+      <label>Deck</label>
+      <visibletoowner>NO</visibletoowner>
+      <visibletoothers>NO</visibletoothers>
+	</gamezone> 
+	
+	<gamezone>
+      <label>Discard</label>
+      <visibletoowner>YES</visibletoowner>
+      <visibletoothers>YES</visibletoothers>
+	</gamezone> 
+	
+	<gamezone>
+      <label>Removed</label>
+      <visibletoowner>YES</visibletoowner>
+      <visibletoothers>YES</visibletoothers>
+	</gamezone> 
+	
+	<gamezone>
+		<label>CrusadePile</label>
+		<visibletoowner>NO</visibletoowner>
+		<visibletoothers>NO</visibletoothers>
+	</gamezone>
+	
+	<gamezone>
+		<label>ISA/Extra</label>
+		<visibletoowner>NO</visibletoowner>
+		<visibletoothers>NO</visibletoothers>
+	</gamezone>
+	
+	<gamezone>
+		<label>Starting</label>
+		<visibletoowner>YES</visibletoowner>
+		<visibletoothers>NO</visibletoothers>
+	</gamezone>
+	
+	<deckzone>
+		<label>Deck</label>
+		<gamezonetoloadto>Deck</gamezonetoloadto>
+		<shuffle>yes</shuffle>
+	</deckzone>
+	
+	<deckzone>
+		 <label>CrusadePile</label>
+		 <gamezonetoloadto>CrusadePile</gamezonetoloadto>
+		 <shuffle>YES</shuffle>
+	</deckzone>
+	
+	<deckzone>
+		 <label>Starting</label>
+		 <gamezonetoloadto>Starting</gamezonetoloadto>
+		 <shuffle>NO</shuffle>
+	</deckzone>
+	
+	
+	
+	<generalfunction>
+		<label>Ready All</label>
+		<kind>ALLYOURCARDSMAKERIGHT0DEGREES</kind>
+		<includeasbutton>YES</includeasbutton>
+	</generalfunction>
+	
+	<generalfunction>
+		<label>Draw</label>
+		<kind>DRAWCARD</kind>
+		<includeasbutton>YES</includeasbutton>
+	</generalfunction>
+	
+	<generalfunction>
+		<label>Spawn Card</label>
+		<kind>SPAWNCARD</kind>
+		<includeasbutton>NO</includeasbutton>
+	</generalfunction>
+	
+	<generalfunction>
+		<label>Flip Coin</label>
+		<kind>FLIPCOIN</kind>
+		<includeasbutton>NO</includeasbutton>
+	</generalfunction>
+	
+	<generalfunction>
+		<label>Roll D20</label>
+		<kind>ROLLD20</kind>
+		<includeasbutton>NO</includeasbutton>
+	</generalfunction>
+	
+
+	
+	
+	<cardfunction>
+		<label>Rotate</label>
+		<kind>MAKERIGHT90DEGREES</kind>
+		<includeasbutton>YES</includeasbutton>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>Ready</label>
+		<kind>MAKERIGHT0DEGREES</kind>
+		<includeasbutton>YES</includeasbutton>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>Sustain Card</label>
+		<kind>TOGGLETURNALLIMMUNITY</kind>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>Flip</label>
+		<kind>TURNOVER</kind>
+		<includeasbutton>YES</includeasbutton>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>Note</label>
+		<kind>EDITNOTE</kind>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>Clear</label>
+		<kind>CLEARCARD</kind>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>Take Control</label>
+		<kind>CHANGEOWNER</kind>
+	</cardfunction>
+		
+	<cardfunction>
+		<label>DAMAGE--</label>
+		<kind>REMOVECOUNTER</kind>
+		<color>RED</color>
+		<includeasbutton>YES</includeasbutton>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>DAMAGE++</label>
+		<kind>ADDCOUNTER</kind>
+		<color>RED</color>
+		<PositionX>0</PositionX>
+		<PositionY>0.1</PositionY>
+		<includeasbutton>YES</includeasbutton>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>DIP--</label>
+		<kind>REMOVECOUNTER</kind>
+		<color>GREEN</color>
+		<includeasbutton>YES</includeasbutton>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>DIP++</label>
+		<kind>ADDCOUNTER</kind>
+		<color>GREEN</color>
+		<PositionX>1</PositionX>
+		<PositionY>0.95</PositionY>
+		<includeasbutton>YES</includeasbutton>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>INT--</label>
+		<kind>REMOVECOUNTER</kind>
+		<color>BLUE</color>
+		<includeasbutton>YES</includeasbutton>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>INT++</label>
+		<kind>ADDCOUNTER</kind>
+		<color>BLUE</color>
+		<PositionX>1</PositionX>
+		<PositionY>0.75</PositionY>
+		<includeasbutton>YES</includeasbutton>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>PSI--</label>
+		<kind>REMOVECOUNTER</kind>
+		<color>VIOLET</color>
+		<includeasbutton>YES</includeasbutton>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>PSI++</label>
+		<kind>ADDCOUNTER</kind>
+		<color>VIOLET</color>
+		<PositionX>1</PositionX>
+		<PositionY>0.55</PositionY>
+		<includeasbutton>YES</includeasbutton>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>LEAD--</label>
+		<kind>REMOVECOUNTER</kind>
+		<color>ORANGE</color>
+		<includeasbutton>YES</includeasbutton>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>LEAD++</label>
+		<kind>ADDCOUNTER</kind>
+		<color>ORANGE</color>
+		<PositionX>1</PositionX>
+		<PositionY>0.35</PositionY>
+		<includeasbutton>YES</includeasbutton>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>DESTINY--</label>
+		<kind>REMOVECOUNTER</kind>
+		<color>WHITE</color>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>DESTINY++</label>
+		<kind>ADDCOUNTER</kind>
+		<color>WHITE</color>
+		<PositionX>0</PositionX>
+		<PositionY>1</PositionY>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>DOOM--</label>
+		<kind>REMOVECOUNTER</kind>
+		<color>INDIGO</color>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>DOOM++</label>
+		<kind>ADDCOUNTER</kind>
+		<color>INDIGO</color>
+		<PositionX>0</PositionX>
+		<PositionY>0.8</PositionY>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>CONSPIRACY--</label>
+		<kind>REMOVECOUNTER</kind>
+		<color>YELLOW</color>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>CONSPIRACY++</label>
+		<kind>ADDCOUNTER</kind>
+		<color>YELLOW</color>
+		<PositionX>0</PositionX>
+		<PositionY>0.5</PositionY>
+	</cardfunction>
+	
+	
+
+
+	<definition><kind>ISYOURFACEDOWNVISIBLE</kind></definition>
+
+</plugin>

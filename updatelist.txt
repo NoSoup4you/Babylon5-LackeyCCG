@@ -1,25 +1,25 @@
 b5	10-08-18
-plugins/b5/plugininfo.txt	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/plugininfo.txt	-1
-plugins/b5/setlist.txt	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/setlist.txt	-1
-plugins/b5/packs/packdefinitions.txt	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/packs/packdefinitions.txt	-1
-plugins/b5/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/sets/setimages/general/spawned.jpg	-1
-plugins/b5/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/sets/setimages/general/cardback.jpg	-1
-plugins/b5/sets/setimages/general/tension_tracker.jpg	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/sets/setimages/general/tension_tracker.jpg	-1
-plugins/b5/packs/01-Pr.jpg	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/packs/01-Pr.jpg	-1
-plugins/b5/packs/02-Sh.jpg	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/packs/02-Sh.jpg	-1
-plugins/b5/packs/03-Dl.jpg	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/packs/03-Dl.jpg	-1
-plugins/b5/packs/04-GW.jpg	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/packs/04-GW.jpg	-1
-plugins/b5/packs/05-Ps.jpg	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/packs/05-Ps.jpg	-1
-plugins/b5/packs/06-SD.jpg	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/packs/06-SD.jpg	-1
-plugins/b5/packs/07-WF.jpg	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/packs/07-WF.jpg	-1
-plugins/b5/packs/08-Cr.jpg	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/packs/08-Cr.jpg	-1
-plugins/b5/packs/01-Pr_sd-Hm.jpg	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/packs/01-Pr_sd-Hm.jpg	-1
-plugins/b5/packs/01-Pr_sd-Mn.jpg	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/packs/01-Pr_sd-Mn.jpg	-1
-plugins/b5/packs/01-Pr_sd-Nr.jpg	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/packs/01-Pr_sd-Nr.jpg	-1
-plugins/b5/packs/01-Pr_sd-Cn.jpg	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/packs/01-Pr_sd-Cn.jpg	-1
-plugins/b5/packs/04-GW_sd-NA.jpg	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/packs/04-GW_sd-NA.jpg	-1
-plugins/b5/packs/04-GW_sd-HF.jpg	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/packs/04-GW_sd-HF.jpg	-1
-plugins/b5/packs/05-Ps_sd-Ps.jpg	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/packs/05-Ps_sd-Ps.jpg	-1
-plugins/b5/sets/All_Sets.txt	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/sets/All_Sets.txt	-1
+plugins/b5/plugininfo.txt	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/plugininfo.txt	525984
+plugins/b5/setlist.txt	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/setlist.txt	48083
+plugins/b5/packs/packdefinitions.txt	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/packs/packdefinitions.txt	548172
+plugins/b5/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/sets/setimages/general/spawned.jpg	-69041
+plugins/b5/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/sets/setimages/general/cardback.jpg	-41401
+plugins/b5/sets/setimages/general/tension_tracker.jpg	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/sets/setimages/general/tension_tracker.jpg	-44474
+plugins/b5/packs/01-Pr.jpg	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/packs/01-Pr.jpg	-58893
+plugins/b5/packs/02-Sh.jpg	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/packs/02-Sh.jpg	-37017
+plugins/b5/packs/03-Dl.jpg	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/packs/03-Dl.jpg	-5055
+plugins/b5/packs/04-GW.jpg	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/packs/04-GW.jpg	-23805
+plugins/b5/packs/05-Ps.jpg	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/packs/05-Ps.jpg	-5785
+plugins/b5/packs/06-SD.jpg	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/packs/06-SD.jpg	-38659
+plugins/b5/packs/07-WF.jpg	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/packs/07-WF.jpg	-15548
+plugins/b5/packs/08-Cr.jpg	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/packs/08-Cr.jpg	-16036
+plugins/b5/packs/01-Pr_sd-Hm.jpg	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/packs/01-Pr_sd-Hm.jpg	-48181
+plugins/b5/packs/01-Pr_sd-Mn.jpg	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/packs/01-Pr_sd-Mn.jpg	-48181
+plugins/b5/packs/01-Pr_sd-Nr.jpg	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/packs/01-Pr_sd-Nr.jpg	-48181
+plugins/b5/packs/01-Pr_sd-Cn.jpg	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/packs/01-Pr_sd-Cn.jpg	-48181
+plugins/b5/packs/04-GW_sd-NA.jpg	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/packs/04-GW_sd-NA.jpg	-23805
+plugins/b5/packs/04-GW_sd-HF.jpg	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/packs/04-GW_sd-HF.jpg	-23805
+plugins/b5/packs/05-Ps_sd-Ps.jpg	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/packs/05-Ps_sd-Ps.jpg	-5785
+plugins/b5/sets/All_Sets.txt	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/sets/All_Sets.txt	61570484
 CardGeneralURLs:
-http://www.werepenguin.com/B5/lackey/high/
+https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/sets/setimages/general/

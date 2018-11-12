@@ -125,6 +125,14 @@
 	</generalfunction>
 	
 	<generalfunction>
+		<label>Crusade</label>
+		<kind>TRANSFERCARD</kind>
+		<sourcegamezone>CrusadePile</sourcegamezone>
+		<destinationgamezone>Hand</destinationgamezone>
+		<includeasbutton>YES</includeasbutton>
+	</generalfunction>
+	
+	<generalfunction>
 		<label>Spawn Card</label>
 		<kind>SPAWNCARD</kind>
 		<includeasbutton>NO</includeasbutton>

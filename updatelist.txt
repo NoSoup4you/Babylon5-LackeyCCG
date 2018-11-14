@@ -1,5 +1,5 @@
-Babylon5	11-12-18
-plugins/Babylon5/plugininfo.txt	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/plugininfo.txt	525984
+Babylon5	11-13-18
+plugins/Babylon5/plugininfo.txt	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/plugininfo.txt	546596
 plugins/Babylon5/setlist.txt	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/setlist.txt	48083
 plugins/Babylon5/packs/packdefinitions.txt	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/packs/packdefinitions.txt	548172
 plugins/Babylon5/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/sets/setimages/general/spawned.jpg	-69041

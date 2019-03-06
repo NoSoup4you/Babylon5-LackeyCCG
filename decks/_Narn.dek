@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>Babylon5</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="01-006">Affirm Alliance</name><set>Premier</set></card>
+		<card><name id="01-017">Assigning Blame</name><set>Premier</set></card>
+		<card><name id="01-029">Book of G&apos;Quan</name><set>Premier</set></card>
+		<card><name id="03-025">Border Raid</name><set>Deluxe</set></card>
+		<card><name id="03-042">Colonial Fleet (Narn)</name><set>Deluxe</set></card>
+		<card><name id="01-076">Decisive Tactics</name><set>Premier</set></card>
+		<card><name id="03-068">Declaration of War</name><set>Deluxe</set></card>
+		<card><name id="03-068">Declaration of War</name><set>Deluxe</set></card>
+		<card><name id="03-072">Deep Space Fleet (Narn)</name><set>Deluxe</set></card>
+		<card><name id="03-072">Deep Space Fleet (Narn)</name><set>Deluxe</set></card>
+		<card><name id="03-100">Energy Mines</name><set>Deluxe</set></card>
+		<card><name id="01-117">Euphrates Treaty</name><set>Premier</set></card>
+		<card><name id="03-111">First Battle Fleet (Narn)</name><set>Deluxe</set></card>
+		<card><name id="03-113">Fleet Support Base</name><set>Deluxe</set></card>
+		<card><name id="03-119">For the Good of All</name><set>Deluxe</set></card>
+		<card><name id="03-137">Gunboat Diplomacy</name><set>Deluxe</set></card>
+		<card><name id="01-170">Homeworld Fleet (Narn)</name><set>Premier</set></card>
+		<card><name id="03-150">Hunted</name><set>Deluxe</set></card>
+		<card><name id="03-168">Ja&apos;Doc</name><set>Deluxe</set></card>
+		<card><name id="03-171">Kha&apos;Mak</name><set>Deluxe</set></card>
+		<card><name id="01-203">Kidnapping</name><set>Premier</set></card>
+		<card><name id="01-207">Ko&apos;Dath</name><set>Premier</set></card>
+		<card><name id="05-089">Level the Playing Field</name><set>Psi_Corps</set></card>
+		<card><name id="05-089">Level the Playing Field</name><set>Psi_Corps</set></card>
+		<card><name id="05-089">Level the Playing Field</name><set>Psi_Corps</set></card>
+		<card><name id="01-219">Limited Strike</name><set>Premier</set></card>
+		<card><name id="01-219">Limited Strike</name><set>Premier</set></card>
+		<card><name id="01-265">Na&apos;Kal</name><set>Premier</set></card>
+		<card><name id="03-220">Narn Agent</name><set>Deluxe</set></card>
+		<card><name id="03-221">Narn Aide</name><set>Deluxe</set></card>
+		<card><name id="03-222">Narn Captain</name><set>Deluxe</set></card>
+		<card><name id="01-270">Narn Homeworld</name><set>Premier</set></card>
+		<card><name id="10-083">Na&apos;Toth</name><set>The_Vorlons</set></card>
+		<card><name id="01-275">Never Again</name><set>Premier</set></card>
+		<card><name id="01-262">N&apos;Grath</name><set>Premier</set></card>
+		<card><name id="03-249">Picket Fleet (Narn)</name><set>Deluxe</set></card>
+		<card><name id="01-301">Popular Support</name><set>Premier</set></card>
+		<card><name id="01-302">Power Politics</name><set>Premier</set></card>
+		<card><name id="03-265">Quadrant 14</name><set>Deluxe</set></card>
+		<card><name id="03-278">Refugees</name><set>Deluxe</set></card>
+		<card><name id="03-280">Renowned Victory</name><set>Deluxe</set></card>
+		<card><name id="01-336">Revenge</name><set>Premier</set></card>
+		<card><name id="03-298">Second Battle Fleet (Narn)</name><set>Deluxe</set></card>
+		<card><name id="01-388">Supplement Security</name><set>Premier</set></card>
+		<card><name id="01-392">Ta&apos;Lon</name><set>Premier</set></card>
+		<card><name id="03-340">Test Their Mettle</name><set>Deluxe</set></card>
+		<card><name id="01-414">Underworld Connections</name><set>Premier</set></card>
+		<card><name id="03-367">War Hero</name><set>Deluxe</set></card>
+		<card><name id="01-121">Expeditionary Fleet (Narn)</name><set>Premier</set></card>
+		<card><name id="01-147">G&apos;Kar [Pr]</name><set>Premier</set></card>
+	</superzone>
+</deck>

@@ -1,8 +1,8 @@
 <pluginpreferences>
 
-<lastversionupdate>181114</lastversionupdate>
+<lastversionupdate>190306</lastversionupdate>
 <counterstyleimagesizetextoverimage>16</counterstyleimagesizetextoverimage>
-<counterstyleimagesizeimagesonly>18</counterstyleimagesizeimagesonly>
+<counterstyleimagesizeimagesonly>25</counterstyleimagesizeimagesonly>
 <recentskins>default</recentskins>
 <canned>(PoP?) Pass or Play?</canned>
 <canned>Pass.</canned>
@@ -50,11 +50,9 @@
 <bindingmain15>CTRL+SHIFT+s</bindingmain15>
 <bindinggeneral0>CTRL+u</bindinggeneral0>
 <bindinggeneral1>CTRL+d</bindinggeneral1>
-<bindinggeneral2>CTRL+SHIFT+c</bindinggeneral2>
-<bindinggeneral3>META+DOWN</bindinggeneral3>
+<bindinggeneral2>CTRL+m</bindinggeneral2>
+<bindinggeneral3>CTRL+SHIFT+c</bindinggeneral3>
 <bindinggeneral4>META+r</bindinggeneral4>
-<bindinggeneral5>CTRL+SHIFT+f</bindinggeneral5>
-<bindinggeneral6>CTRL+SHIFT+m</bindinggeneral6>
 <bindingcard0>CTRL+SPACE</bindingcard0>
 <bindingcard1>SPACE</bindingcard1>
 <bindingcard2>SHIFT+META+MINUS</bindingcard2>
@@ -64,7 +62,7 @@
 <bindingcard6>CTRL+SHIFT+EQUALS</bindingcard6>
 <bindingcard7>CTRL+MINUS</bindingcard7>
 <bindingcard8>CTRL+EQUALS</bindingcard8>
-<bindingcard10>CTRL+SHIFT+e</bindingcard10>
+<bindingcard9>CTRL+SHIFT+MINUS</bindingcard9>
 <bindingcard12>CTRL+SHIFT+d</bindingcard12>
 <bindingcanned0>CTRL+1</bindingcanned0>
 <bindingcanned1>CTRL+2</bindingcanned1>

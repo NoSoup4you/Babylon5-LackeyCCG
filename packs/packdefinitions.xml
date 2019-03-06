@@ -1,0 +1,255 @@
+<packdefinitions version="1.0">
+
+<pack>
+
+	<packtitle>Premier</packtitle>
+	<packimage>01-Pr</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packdoubles>yes</packdoubles>
+	<chance>
+
+		<kind>
+			<qty>5</qty>
+			<crit><field>Set</field><eval>IS</eval><data>Premier</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+			</kind>
+
+
+		<kind>
+			<qty>2</qty>
+			<crit><field>Set</field><eval>IS</eval><data>Premier</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit>
+			</kind>
+
+		<kind>
+			<qty>1</qty>
+			<crit><field>Set</field><eval>IS</eval><data>Premier</data></crit>
+			<crit><field>Rarity</field><eval>CONTAINS</eval><data>Rare</data></crit>
+			</kind>
+
+	</chance>
+</pack>
+
+<pack>
+
+	<packtitle>Shadows</packtitle>
+	<packimage>02-Sh</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packdoubles>yes</packdoubles>
+	<chance>
+
+		<kind>
+			<qty>7</qty>
+			<crit><field>Set</field><eval>IS</eval><data>Shadows</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+			</kind>
+
+
+		<kind>
+			<qty>3</qty>
+			<crit><field>Set</field><eval>IS</eval><data>Shadows</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit>
+			</kind>
+
+		<kind>
+			<qty>2</qty>
+			<crit><field>Set</field><eval>IS</eval><data>Shadows</data></crit>
+			<crit><field>Rarity</field><eval>CONTAINS</eval><data>Rare</data></crit>
+			</kind>
+
+	</chance>
+</pack>
+
+<pack>
+
+	<packtitle>Deluxe</packtitle>
+	<packimage>03-Dl</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packdoubles>yes</packdoubles>
+	<chance>
+
+		<kind>
+			<qty>4</qty>
+			<crit><field>Set</field><eval>IS</eval><data>Deluxe</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+			</kind>
+
+
+		<kind>
+			<qty>2</qty>
+			<crit><field>Set</field><eval>IS</eval><data>Deluxe</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit>
+			</kind>
+
+		<kind>
+			<qty>1</qty>
+			<crit><field>Set</field><eval>IS</eval><data>Deluxe</data></crit>
+			<crit><field>Rarity</field><eval>CONTAINS</eval><data>Rare</data></crit>
+			</kind>
+
+		<kind>
+			<qty>1</qty>
+			<crit><field>Set</field><eval>IS</eval><data>Deluxe</data></crit>
+			<crit><field>Rarity</field><eval>CONTAINS</eval><data>Fixed</data></crit>
+			</kind>			
+			
+	</chance>
+</pack>
+
+<pack>
+
+	<packtitle>Great War</packtitle>
+	<packimage>04-GW</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packdoubles>yes</packdoubles>
+	<chance>
+
+		<kind>
+			<qty>5</qty>
+			<crit><field>Set</field><eval>IS</eval><data>Great_War</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+			</kind>
+
+
+		<kind>
+			<qty>3</qty>
+			<crit><field>Set</field><eval>IS</eval><data>Great_War</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit>
+			</kind>
+
+		<kind>
+			<qty>2</qty>
+			<crit><field>Set</field><eval>IS</eval><data>Great_War</data></crit>
+			<crit><field>Rarity</field><eval>CONTAINS</eval><data>Rare</data></crit>
+			</kind>	
+			
+	</chance>
+</pack>
+
+<pack>
+
+	<packtitle>Psi Corps</packtitle>
+	<packimage>05-Ps</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packdoubles>yes</packdoubles>
+	<chance>
+
+		<kind>
+			<qty>5</qty>
+			<crit><field>Set</field><eval>IS</eval><data>Psi_Corps</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+			</kind>
+
+
+		<kind>
+			<qty>2</qty>
+			<crit><field>Set</field><eval>IS</eval><data>Psi_Corps</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit>
+			</kind>
+
+		<kind>
+			<qty>1</qty>
+			<crit><field>Set</field><eval>IS</eval><data>Psi_Corps</data></crit>
+			<crit><field>Rarity</field><eval>CONTAINS</eval><data>Rare</data></crit>
+			</kind>	
+			
+	</chance>
+</pack>
+
+<pack>
+
+	<packtitle>Severed Dreams</packtitle>
+	<packimage>06-SD</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packdoubles>yes</packdoubles>
+	<chance>
+
+		<kind>
+			<qty>5</qty>
+			<crit><field>Set</field><eval>IS</eval><data>Severed_Dreams</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+			</kind>
+
+
+		<kind>
+			<qty>2</qty>
+			<crit><field>Set</field><eval>IS</eval><data>Severed_Dreams</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit>
+			</kind>
+
+		<kind>
+			<qty>1</qty>
+			<crit><field>Set</field><eval>IS</eval><data>Severed_Dreams</data></crit>
+			<crit><field>Rarity</field><eval>CONTAINS</eval><data>Rare</data></crit>
+			</kind>	
+			
+	</chance>
+</pack>
+
+<pack>
+
+	<packtitle>Wheel of Fire</packtitle>
+	<packimage>07-WF</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packdoubles>yes</packdoubles>
+	<chance>
+
+		<kind>
+			<qty>5</qty>
+			<crit><field>Set</field><eval>IS</eval><data>Wheel_of_Fire</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+			</kind>
+
+
+		<kind>
+			<qty>3</qty>
+			<crit><field>Set</field><eval>IS</eval><data>Wheel_of_Fire</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit>
+			</kind>
+
+		<kind>
+			<qty>1</qty>
+			<crit><field>Set</field><eval>IS</eval><data>Wheel_of_Fire</data></crit>
+			<crit><field>Rarity</field><eval>CONTAINS</eval><data>Rare</data></crit>
+			</kind>	
+			
+	</chance>
+</pack>
+
+<pack>
+
+	<packtitle>Crusade</packtitle>
+	<packimage>08-Cr</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packdoubles>yes</packdoubles>
+	<chance>
+
+		<kind>
+			<qty>5</qty>
+			<crit><field>Set</field><eval>IS</eval><data>Crusade</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+			</kind>
+
+
+		<kind>
+			<qty>3</qty>
+			<crit><field>Set</field><eval>IS</eval><data>Crusade</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit>
+			</kind>
+
+		<kind>
+			<qty>1</qty>
+			<crit><field>Set</field><eval>IS</eval><data>Crusade</data></crit>
+			<crit><field>Rarity</field><eval>CONTAINS</eval><data>Rare</data></crit>
+			</kind>	
+			
+	</chance>
+</pack>

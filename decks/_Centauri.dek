@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>Babylon5</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="03-005">Adira Tyree</name><set>Deluxe</set></card>
+		<card><name id="01-006">Affirm Alliance</name><set>Premier</set></card>
+		<card><name id="03-018">Balance</name><set>Deluxe</set></card>
+		<card><name id="03-025">Border Raid</name><set>Deluxe</set></card>
+		<card><name id="10-015">Carn Mollari</name><set>The_Vorlons</set></card>
+		<card><name id="03-031">Centauri Agent</name><set>Deluxe</set></card>
+		<card><name id="03-031">Centauri Agent</name><set>Deluxe</set></card>
+		<card><name id="03-032">Centauri Aide</name><set>Deluxe</set></card>
+		<card><name id="03-033">Centauri Captain</name><set>Deluxe</set></card>
+		<card><name id="01-040">Centauri Prime</name><set>Premier</set></card>
+		<card><name id="03-039">Colonial Fleet (Centauri)</name><set>Deluxe</set></card>
+		<card><name id="01-076">Decisive Tactics</name><set>Premier</set></card>
+		<card><name id="03-068">Declaration of War</name><set>Deluxe</set></card>
+		<card><name id="03-069">Deep Space Fleet (Centauri)</name><set>Deluxe</set></card>
+		<card><name id="03-078">Destiny Fulfilled</name><set>Deluxe</set></card>
+		<card><name id="01-101">Dishonor</name><set>Premier</set></card>
+		<card><name id="01-105">Drigo</name><set>Premier</set></card>
+		<card><name id="01-118">Expeditionary Fleet (Centauri)</name><set>Premier</set></card>
+		<card><name id="03-103">Exploit Opportunities</name><set>Deluxe</set></card>
+		<card><name id="03-108">First Battle Fleet (Centauri)</name><set>Deluxe</set></card>
+		<card><name id="03-137">Gunboat Diplomacy</name><set>Deluxe</set></card>
+		<card><name id="03-141">Hidden Agent</name><set>Deluxe</set></card>
+		<card><name id="01-203">Kidnapping</name><set>Premier</set></card>
+		<card><name id="03-172">Knowledge is Power</name><set>Deluxe</set></card>
+		<card><name id="01-211">Lady Morella</name><set>Premier</set></card>
+		<card><name id="05-089">Level the Playing Field</name><set>Psi_Corps</set></card>
+		<card><name id="05-089">Level the Playing Field</name><set>Psi_Corps</set></card>
+		<card><name id="05-089">Level the Playing Field</name><set>Psi_Corps</set></card>
+		<card><name id="01-219">Limited Strike</name><set>Premier</set></card>
+		<card><name id="03-243">Personal Involvement</name><set>Deluxe</set></card>
+		<card><name id="03-246">Picket Fleet (Centauri)</name><set>Deluxe</set></card>
+		<card><name id="01-302">Power Politics</name><set>Premier</set></card>
+		<card><name id="01-301">Popular Support</name><set>Premier</set></card>
+		<card><name id="03-256">Prophecy</name><set>Deluxe</set></card>
+		<card><name id="03-269">Ragesh III</name><set>Deluxe</set></card>
+		<card><name id="03-284">Retribution</name><set>Deluxe</set></card>
+		<card><name id="01-338">Rise of the Republic</name><set>Premier</set></card>
+		<card><name id="03-286">Rise to Power</name><set>Deluxe</set></card>
+		<card><name id="03-287">Rivalry</name><set>Deluxe</set></card>
+		<card><name id="03-290">Sabotage</name><set>Deluxe</set></card>
+		<card><name id="03-295">Second Battle Fleet (Centauri)</name><set>Deluxe</set></card>
+		<card><name id="03-314">Short Term Goals</name><set>Deluxe</set></card>
+		<card><name id="03-340">Test Their Mettle</name><set>Deluxe</set></card>
+		<card><name id="03-343">The Price of Power</name><set>Deluxe</set></card>
+		<card><name id="01-414">Underworld Connections</name><set>Premier</set></card>
+		<card><name id="01-419">Urza Jaddo</name><set>Premier</set></card>
+		<card><name id="03-361">Victory in My Grasp</name><set>Deluxe</set></card>
+		<card><name id="01-425">Vir Cotto</name><set>Premier</set></card>
+		<card><name id="01-167">Homeworld Fleet (Centauri)</name><set>Premier</set></card>
+		<card><name id="01-222">Londo Mollari [Pr]</name><set>Premier</set></card>
+	</superzone>
+</deck>

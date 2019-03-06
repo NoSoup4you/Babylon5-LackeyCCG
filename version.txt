@@ -1,6 +1,6 @@
 <version>
 
-<lastupdateYYMMDD>181114</lastupdateYYMMDD>
+<lastupdateYYMMDD>190306</lastupdateYYMMDD>
  <versionurl>https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/version.txt</versionurl>
  <updateurl>https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/updatelist.txt</updateurl>
  <message>FOK U</message>

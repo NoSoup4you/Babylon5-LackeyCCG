@@ -1,7 +1,8 @@
 Babylon5	03-06-19
 plugins/Babylon5/plugininfo.txt	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/plugininfo.txt	546596
-plugins/Babylon5/setlist.txt	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/setlist.txt	48083
-plugins/Babylon5/version.txt	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/version.txt	28723
+plugins/Babylon5/setlist.txt	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/setlist.txt	1237
+plugins/Babylon5/version.txt	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/version.txt	30675
+plugins/Babylon5/formats.txt	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/formats.txt	35885
 plugins/Babylon5/packs/packdefinitions.xml	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/packs/packdefinitions.xml	507433
 plugins/Babylon5/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/sets/setimages/general/spawned.jpg	-69041
 plugins/Babylon5/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/sets/setimages/general/cardback.jpg	-41401

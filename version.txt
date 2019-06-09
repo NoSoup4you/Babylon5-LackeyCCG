@@ -1,8 +1,8 @@
 <version>
 
-<lastupdateYYMMDD>190306</lastupdateYYMMDD>
+<lastupdateYYMMDD>190609</lastupdateYYMMDD>
  <versionurl>https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/version.txt</versionurl>
  <updateurl>https://raw.githubusercontent.com/NoSoup4you/Babylon5-LackeyCCG/master/updatelist.txt</updateurl>
- <message>FOK U</message>
+ <message>facebook.com/chaosframe</message>
 
 </version>

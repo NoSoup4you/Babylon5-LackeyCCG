@@ -1,0 +1,24 @@
+<formatdefinitions>
+
+<format>
+	<label>Official</label>
+	<set>Premier</set>
+	<set>Shadows</set>
+	<set>Deluxe</set>
+	<set>Great_War</set>
+	<set>Psi_Corps</set>
+	<set>Severed_Dreams</set>
+	<set>Wheel_of_Fire</set>
+	<set>Crusade</set>
+	<set>Trackers</set>
+	<set>Promo_Cards</set>
+</format>
+
+<format>
+	<label>Fan_Sets</label>
+	<set>AnlaShok</set>
+	<set>The_Vorlons</set>
+	<set>Trackers</set>
+</format>
+
+</formatdefinitions>
